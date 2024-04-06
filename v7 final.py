@@ -1,3 +1,6 @@
+"""
+Изменения
+"""
 import os
 import random
 
